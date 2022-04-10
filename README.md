@@ -4,7 +4,7 @@
 <!--
 **m4lbec/m4lbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- Soy Enologo de la provincia de Mendoza, Argentina. Codigo entusiasta. Haciendo mi Licenciatura en Ciberseguridad.
+**Soy Enologo de la provincia de Mendoza, Argentina. Codigo entusiasta. Haciendo mi Licenciatura en Ciberseguridad.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
