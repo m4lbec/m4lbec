@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 ### Habilidades
-[![Python](mg.shields.io/badge/Python-<V3.10>-<COLOR>)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
