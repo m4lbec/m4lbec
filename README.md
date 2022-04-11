@@ -1,6 +1,6 @@
 ## Hi there 👋 , My name is Matias Fernandez
 
-I am a winemaker from Mendoza, Argentina.🍇 
+I am a winemaker from Mendoza, Argentina.🍷 
 
 Code enthusiast. 
 
