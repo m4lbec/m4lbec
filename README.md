@@ -1,4 +1,4 @@
-# Hi there 👋 , My name is Matias Fernandez
+# Hi there 👋 , my name is Matias Fernandez
 
 🍷 I am a winemaker from Mendoza, Argentina.
 
