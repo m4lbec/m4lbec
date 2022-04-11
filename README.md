@@ -20,5 +20,5 @@ Soy Enologo de la provincia de Mendoza, Argentina. Codigo entusiasta. Haciendo m
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
-[![Excel](https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()
+[![Microsoft Excel](https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()
 
