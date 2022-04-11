@@ -27,4 +27,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
 [![Microsoft Excel](https://img.shields.io/badge/MicrosoftExcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()
 [![Google Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=101010)]()
+</br>
+
+###Find me at :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matias_Fernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matiasafernandez/)
 
