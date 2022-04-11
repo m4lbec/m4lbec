@@ -1,10 +1,10 @@
 ## Hi there 👋 , My name is Matias Fernandez
 
-I am a winemaker from Mendoza, Argentina.🍷 
+🍷 I am a winemaker from Mendoza, Argentina.
 
-Code enthusiast. 
+💻 Code enthusiast. 
 
-On my way to my Cybersecurity Degree.
+🕵🏻‍♂️ On my way to my Cybersecurity Degree.
 <!--
 **m4lbec/m4lbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
