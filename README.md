@@ -4,7 +4,9 @@
 
 💻 Code enthusiast. 
 
-🕵🏻‍♂️ On my way to my Cybersecurity Degree.
+🕵🏻‍♂️ On my way to my cybersecurity degree.
+
+🚀 My dream -> Work in the technology industry to make my contribution. 
 
 <!--
 **m4lbec/m4lbec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
